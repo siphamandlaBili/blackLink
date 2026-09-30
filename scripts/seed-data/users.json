@@ -1,0 +1,397 @@
+[
+ {
+  "key": "u1",
+  "displayName": "Thabo M.",
+  "township": "orlando-west",
+  "accountAgeDays": 640,
+  "helpfulVotesReceived": 34,
+  "badges": [
+   "early-linker",
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u2",
+  "displayName": "Lindiwe K.",
+  "township": "diepkloof",
+  "accountAgeDays": 410,
+  "helpfulVotesReceived": 12,
+  "badges": [
+   "first-review",
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u3",
+  "displayName": "Sibusiso N.",
+  "township": "meadowlands",
+  "accountAgeDays": 90,
+  "helpfulVotesReceived": 2,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u4",
+  "displayName": "Naledi P.",
+  "township": "naledi",
+  "accountAgeDays": 720,
+  "helpfulVotesReceived": 41,
+  "badges": [
+   "early-linker",
+   "top-reviewer",
+   "local-champion"
+  ]
+ },
+ {
+  "key": "u5",
+  "displayName": "Kagiso S.",
+  "township": "orlando-east",
+  "accountAgeDays": 300,
+  "helpfulVotesReceived": 8,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u6",
+  "displayName": "Zanele D.",
+  "township": "dube",
+  "accountAgeDays": 520,
+  "helpfulVotesReceived": 19,
+  "badges": [
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u7",
+  "displayName": "Mpho R.",
+  "township": "kliptown",
+  "accountAgeDays": 45,
+  "helpfulVotesReceived": 0,
+  "badges": []
+ },
+ {
+  "key": "u8",
+  "displayName": "Bongani Z.",
+  "township": "jabavu",
+  "accountAgeDays": 380,
+  "helpfulVotesReceived": 6,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u9",
+  "displayName": "Refilwe M.",
+  "township": "dobsonville",
+  "accountAgeDays": 610,
+  "helpfulVotesReceived": 27,
+  "badges": [
+   "early-linker",
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u10",
+  "displayName": "Tumi S.",
+  "township": "pimville",
+  "accountAgeDays": 150,
+  "helpfulVotesReceived": 3,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u11",
+  "displayName": "Ayanda C.",
+  "township": "mofolo",
+  "accountAgeDays": 260,
+  "helpfulVotesReceived": 9,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u12",
+  "displayName": "Lerato T.",
+  "township": "protea-glen",
+  "accountAgeDays": 700,
+  "helpfulVotesReceived": 22,
+  "badges": [
+   "early-linker",
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u13",
+  "displayName": "Sipho H.",
+  "township": "zola",
+  "accountAgeDays": 30,
+  "helpfulVotesReceived": 0,
+  "badges": []
+ },
+ {
+  "key": "u14",
+  "displayName": "Nomsa B.",
+  "township": "chiawelo",
+  "accountAgeDays": 480,
+  "helpfulVotesReceived": 14,
+  "badges": [
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u15",
+  "displayName": "Vusi L.",
+  "township": "emdeni",
+  "accountAgeDays": 200,
+  "helpfulVotesReceived": 4,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u16",
+  "displayName": "Palesa J.",
+  "township": "moroka",
+  "accountAgeDays": 560,
+  "helpfulVotesReceived": 17,
+  "badges": [
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u17",
+  "displayName": "Themba G.",
+  "township": "orlando-west",
+  "accountAgeDays": 120,
+  "helpfulVotesReceived": 1,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u18",
+  "displayName": "Karabo F.",
+  "township": "diepkloof",
+  "accountAgeDays": 340,
+  "helpfulVotesReceived": 11,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u19",
+  "displayName": "Busi W.",
+  "township": "meadowlands",
+  "accountAgeDays": 690,
+  "helpfulVotesReceived": 30,
+  "badges": [
+   "early-linker",
+   "local-champion"
+  ]
+ },
+ {
+  "key": "u20",
+  "displayName": "Tshepo V.",
+  "township": "naledi",
+  "accountAgeDays": 75,
+  "helpfulVotesReceived": 0,
+  "badges": []
+ },
+ {
+  "key": "u21",
+  "displayName": "Andile Q.",
+  "township": "dube",
+  "accountAgeDays": 430,
+  "helpfulVotesReceived": 13,
+  "badges": [
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u22",
+  "displayName": "Dineo Y.",
+  "township": "orlando-east",
+  "accountAgeDays": 250,
+  "helpfulVotesReceived": 5,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u23",
+  "displayName": "Lwazi E.",
+  "township": "protea-glen",
+  "accountAgeDays": 15,
+  "helpfulVotesReceived": 0,
+  "badges": []
+ },
+ {
+  "key": "u24",
+  "displayName": "Precious A.",
+  "township": "jabavu",
+  "accountAgeDays": 590,
+  "helpfulVotesReceived": 20,
+  "badges": [
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u25",
+  "displayName": "Kabelo U.",
+  "township": "pimville",
+  "accountAgeDays": 360,
+  "helpfulVotesReceived": 7,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u26",
+  "displayName": "Zinhle O.",
+  "township": "mofolo",
+  "accountAgeDays": 180,
+  "helpfulVotesReceived": 2,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u27",
+  "displayName": "Mandla I.",
+  "township": "chiawelo",
+  "accountAgeDays": 650,
+  "helpfulVotesReceived": 25,
+  "badges": [
+   "early-linker",
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u28",
+  "displayName": "Boitumelo X.",
+  "township": "kliptown",
+  "accountAgeDays": 95,
+  "helpfulVotesReceived": 1,
+  "badges": []
+ },
+ {
+  "key": "u29",
+  "displayName": "Sello N.",
+  "township": "zola",
+  "accountAgeDays": 470,
+  "helpfulVotesReceived": 16,
+  "badges": [
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u30",
+  "displayName": "Grace K.",
+  "township": "emdeni",
+  "accountAgeDays": 530,
+  "helpfulVotesReceived": 18,
+  "badges": [
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u31",
+  "displayName": "Hlengiwe M.",
+  "township": "moroka",
+  "accountAgeDays": 60,
+  "helpfulVotesReceived": 0,
+  "badges": []
+ },
+ {
+  "key": "u32",
+  "displayName": "Jabu S.",
+  "township": "dobsonville",
+  "accountAgeDays": 310,
+  "helpfulVotesReceived": 10,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u33",
+  "displayName": "Nandi R.",
+  "township": "orlando-east",
+  "accountAgeDays": 220,
+  "helpfulVotesReceived": 6,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u34",
+  "displayName": "Katlego B.",
+  "township": "diepkloof",
+  "accountAgeDays": 540,
+  "helpfulVotesReceived": 21,
+  "badges": [
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u35",
+  "displayName": "Siyanda P.",
+  "township": "pimville",
+  "accountAgeDays": 130,
+  "helpfulVotesReceived": 2,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u36",
+  "displayName": "Rorisang M.",
+  "township": "naledi",
+  "accountAgeDays": 20,
+  "helpfulVotesReceived": 0,
+  "badges": []
+ },
+ {
+  "key": "u37",
+  "displayName": "Musa T.",
+  "township": "meadowlands",
+  "accountAgeDays": 400,
+  "helpfulVotesReceived": 12,
+  "badges": [
+   "trusted-local"
+  ]
+ },
+ {
+  "key": "u38",
+  "displayName": "Kamogelo D.",
+  "township": "dube",
+  "accountAgeDays": 280,
+  "helpfulVotesReceived": 5,
+  "badges": [
+   "first-review"
+  ]
+ },
+ {
+  "key": "u39",
+  "displayName": "Nokuthula S.",
+  "township": "jabavu",
+  "accountAgeDays": 610,
+  "helpfulVotesReceived": 23,
+  "badges": [
+   "early-linker",
+   "top-reviewer"
+  ]
+ },
+ {
+  "key": "u40",
+  "displayName": "Oupa L.",
+  "township": "kliptown",
+  "accountAgeDays": 350,
+  "helpfulVotesReceived": 9,
+  "badges": [
+   "first-review"
+  ]
+ }
+]

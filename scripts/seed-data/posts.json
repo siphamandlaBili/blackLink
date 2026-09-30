@@ -1,0 +1,23 @@
+[
+ {
+  "type": "spotlight",
+  "business": "gogo-catering",
+  "author": "admin",
+  "title": "Kasi Spotlight: Gogo Catering",
+  "body": "What started as cooking for neighbours' weddings in a Meadowlands backyard is now the name families call for umgidi, funerals and graduations across Soweto.",
+  "spotlight": {
+   "fromDaysAgo": 2,
+   "toInDays": 5,
+   "story": "What started as cooking for neighbours' weddings in a Meadowlands backyard is now the name families call for umgidi, funerals and graduations across Soweto. Every pot of samp and beef stew is still made the way her mother taught her, and every order still comes in on WhatsApp.",
+   "quote": "When you feed people at their happiest and their hardest moments, you become part of the family."
+  },
+  "daysAgo": 2
+ },
+ { "type": "update", "business": "sakhumzi-corner-grill", "author": "owner", "title": "Sunday platters are back", "body": "Our Sunday platter for 4 is back at R 480. Book a table on WhatsApp before Saturday 6pm.", "daysAgo": 1 },
+ { "type": "update", "business": "dube-braids-palace", "author": "owner", "title": "New knotless braids stylist", "body": "Welcome Lindo to the team! Knotless bookings now open Tuesday to Sunday.", "daysAgo": 3 },
+ { "type": "update", "business": "orlando-sound-studio", "author": "owner", "title": "5 years of kasi sound", "body": "Five years of recording Soweto artists. Thank you for every session. Studio time is 20% off this month.", "daysAgo": 6 },
+ { "type": "thread", "author": "u12", "topic": "Tips for new owners", "title": "How do you handle load-shedding at a salon?", "body": "We lose a lot of bookings when the power goes. What backup setups are working for you, and roughly what did they cost?", "daysAgo": 4 },
+ { "type": "thread", "author": "u9", "topic": "Marketing on WhatsApp", "title": "Broadcast lists vs WhatsApp status", "body": "Which gets you more customers: broadcast lists or posting on status? Share what has worked.", "daysAgo": 8 },
+ { "type": "collab", "business": "gogo-catering", "author": "owner", "title": "Looking for a DJ for December weddings", "body": "We cater three weddings in December and clients keep asking for a DJ. Looking for someone reliable with their own sound.", "lookingFor": "creative", "daysAgo": 5 },
+ { "type": "collab", "business": "emdeni-dj-hire", "author": "owner", "title": "Caterer wanted for street bashes", "body": "We run monthly street bashes in Emdeni and want a food partner with a gazebo and fair prices.", "lookingFor": "catering", "daysAgo": 9 }
+]

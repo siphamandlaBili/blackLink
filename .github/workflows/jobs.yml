@@ -1,0 +1,61 @@
+# Scheduled jobs for the Black Link API.
+#
+# Render's free tier sleeps when idle, so in-process cron is unreliable. Instead, GitHub
+# Actions calls POST /api/jobs/:name on a timer. Every job is idempotent (one run per
+# hour, day or week, keyed in the jobRuns collection), so an extra or retried call is safe.
+#
+# Repository secrets needed (Settings > Secrets and variables > Actions):
+#   API_URL     e.g. https://black-link-api.onrender.com  (no trailing slash)
+#   JOB_SECRET  the same value as JOB_SECRET in the API's environment
+#
+# GitHub cron is UTC and can run a few minutes late. SAST = UTC+2.
+name: Scheduled jobs
+
+on:
+  schedule:
+    - cron: '7 * * * *'   # hourly at :07 — offer expiry, event reminders
+    - cron: '0 6 * * 1'   # Monday 06:00 UTC = 08:00 SAST — weekly digest
+    - cron: '0 0 * * *'   # 00:00 UTC = 02:00 SAST — Trust Score refresh, POPIA purge
+  workflow_dispatch:
+    inputs:
+      job:
+        description: Job to run now
+        required: true
+        type: choice
+        options: [offer-expiry, event-reminders, weekly-digest, trust-refresh, purge-deleted]
+
+concurrency:
+  group: scheduled-jobs-${{ github.event.schedule || github.event.inputs.job }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Pick jobs for this trigger
+        id: pick
+        run: |
+          case "${{ github.event_name }}:${{ github.event.schedule }}" in
+            "schedule:7 * * * *") echo "jobs=offer-expiry event-reminders" >> "$GITHUB_OUTPUT" ;;
+            "schedule:0 6 * * 1") echo "jobs=weekly-digest" >> "$GITHUB_OUTPUT" ;;
+            "schedule:0 0 * * *") echo "jobs=trust-refresh purge-deleted" >> "$GITHUB_OUTPUT" ;;
+            *) echo "jobs=${{ github.event.inputs.job }}" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Wake the API (free tier cold start)
+        run: curl --silent --show-error --retry 6 --retry-delay 10 --retry-all-errors --max-time 60 "${{ secrets.API_URL }}/api/health" > /dev/null
+
+      - name: Run jobs
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          JOB_SECRET: ${{ secrets.JOB_SECRET }}
+        run: |
+          set -euo pipefail
+          for job in ${{ steps.pick.outputs.jobs }}; do
+            echo "::group::$job"
+            curl --fail-with-body --silent --show-error --retry 2 --retry-delay 15 --max-time 600 \
+              -X POST -H "X-Job-Secret: $JOB_SECRET" "$API_URL/api/jobs/$job"
+            echo
+            echo "::endgroup::"
+          done

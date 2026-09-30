@@ -1,0 +1,3136 @@
+[
+ {
+  "slug": "sakhumzi-corner-grill",
+  "name": "Sakhumzi Corner Grill",
+  "category": "food",
+  "tags": [
+   "Shisanyama",
+   "Sit-down",
+   "Tourist friendly"
+  ],
+  "description": "Braai platters, pap and chakalaka a short walk from the Mandela House. Busy on Sundays, so come early.",
+  "coverUrl": "/images/mock/food-1.jpg",
+  "lat": -26.239848,
+  "lng": 27.909619,
+  "township": "orlando-west",
+  "howToFind": "On Vilakazi Street, two doors down from the Mandela House museum. Look for the red umbrellas.",
+  "nearestTaxiRank": "Vilakazi Street taxi stop",
+  "hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27715182349",
+  "phone": "27715182349",
+  "website": "https://example.com/sakhumzi",
+  "paymentMethods": [
+   "cash",
+   "card",
+   "snapscan"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Sakhumzi Maqubela",
+  "since": 2011,
+  "offer": "Sunday platter for 4: R 480",
+  "createdDaysAgo": 327
+ },
+ {
+  "slug": "vilakazi-heritage-walks",
+  "name": "Vilakazi Heritage Walks",
+  "category": "tours",
+  "tags": [
+   "Walking tours",
+   "History",
+   "Groups"
+  ],
+  "description": "Two-hour guided walks past the Mandela House, Hector Pieterson Memorial and the stories locals tell.",
+  "coverUrl": "/images/mock/tours-1.jpg",
+  "lat": -26.244834,
+  "lng": 27.908733,
+  "township": "orlando-west",
+  "howToFind": "Meet at the Hector Pieterson Memorial entrance, under the big tree.",
+  "nearestTaxiRank": "Hector Pieterson taxi stop",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27839638773",
+  "phone": "27839638773",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 3,
+  "verificationLevel": "registered",
+  "ownerName": "Lerato Nkosi",
+  "since": 2016,
+  "offer": null,
+  "createdDaysAgo": 461
+ },
+ {
+  "slug": "fade-kings-barbershop",
+  "name": "Fade Kings Barbershop",
+  "category": "hair",
+  "tags": [
+   "Fades",
+   "Walk-ins",
+   "Kids cuts"
+  ],
+  "description": "Clean fades, line-ups and beard trims. Walk-ins welcome, WhatsApp to skip the queue.",
+  "coverUrl": "/images/mock/hair-2.jpg",
+  "lat": -26.236335,
+  "lng": 27.905364,
+  "township": "orlando-west",
+  "howToFind": "Container shop behind the Engen garage on Vilakazi Street.",
+  "nearestTaxiRank": "Orlando West taxi rank",
+  "hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "07:00",
+     "close": "19:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "15:00"
+    }
+   ]
+  },
+  "whatsapp": "27844461961",
+  "phone": "27844461961",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "snapscan"
+  ],
+  "backupPower": true,
+  "priceLevel": 1,
+  "verificationLevel": "vouched",
+  "ownerName": "Tebogo Mokoena",
+  "since": 2019,
+  "offer": null,
+  "createdDaysAgo": 391
+ },
+ {
+  "slug": "mam-zodwa-spaza",
+  "name": "Mam Zodwa Spaza",
+  "category": "spaza",
+  "tags": [
+   "Airtime",
+   "Bread and milk",
+   "Electricity"
+  ],
+  "description": "Bread, milk, airtime and prepaid electricity from 6am. Your corner shop since 2008.",
+  "coverUrl": "/images/mock/spaza-3.jpg",
+  "lat": -26.234279,
+  "lng": 27.920678,
+  "township": "orlando-east",
+  "howToFind": "Corner of Mooki and Sofasonke Street, green gate with a Coca-Cola sign.",
+  "nearestTaxiRank": "Orlando Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27735295082",
+  "phone": "27735295082",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Zodwa Dlamini",
+  "since": 2008,
+  "offer": null,
+  "createdDaysAgo": 127
+ },
+ {
+  "slug": "orlando-sound-studio",
+  "name": "Orlando Sound Studio",
+  "category": "creative",
+  "tags": [
+   "Recording",
+   "Amapiano",
+   "Mixing"
+  ],
+  "description": "Affordable recording sessions for kasi artists. Beats, vocals, mixing and mastering.",
+  "coverUrl": "/images/mock/creative-2.jpg",
+  "lat": -26.229248,
+  "lng": 27.914525,
+  "township": "orlando-east",
+  "howToFind": "Upstairs at the Orlando Community Hall, side entrance.",
+  "nearestTaxiRank": "Orlando Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27783937224",
+  "phone": "27783937224",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Kagiso Sithole",
+  "since": 2020,
+  "offer": null,
+  "createdDaysAgo": 261
+ },
+ {
+  "slug": "kasi-threads-tailoring",
+  "name": "Kasi Threads Tailoring",
+  "category": "fashion",
+  "tags": [
+   "Alterations",
+   "Traditional wear",
+   "School uniforms"
+  ],
+  "description": "Alterations, shweshwe and traditional wear made to measure. Wedding orders welcome.",
+  "coverUrl": "/images/mock/fashion-1.jpg",
+  "lat": -26.226869,
+  "lng": 27.915687,
+  "township": "orlando-east",
+  "howToFind": "Room 4 in the yellow complex opposite Orlando Stadium.",
+  "nearestTaxiRank": "Orlando Stadium stop",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27824153518",
+  "phone": "27824153518",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "phone",
+  "ownerName": "Nomsa Khumalo",
+  "since": 2014,
+  "offer": null,
+  "createdDaysAgo": 546
+ },
+ {
+  "slug": "diepkloof-auto-clinic",
+  "name": "Diepkloof Auto Clinic",
+  "category": "carwash",
+  "tags": [
+   "Services",
+   "Diagnostics",
+   "Brakes"
+  ],
+  "description": "Full services, brakes and diagnostics. Honest quotes before any work starts.",
+  "coverUrl": "/images/mock/carwash-3.jpg",
+  "lat": -26.255716,
+  "lng": 27.941655,
+  "township": "diepkloof",
+  "howToFind": "Zone 3, next to the Shell garage on Immink Drive.",
+  "nearestTaxiRank": "Diepkloof Square",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27723738970",
+  "phone": "27723738970",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "eft"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Sibusiso Ndlovu",
+  "since": 2012,
+  "offer": null,
+  "createdDaysAgo": 529
+ },
+ {
+  "slug": "nailed-it-studio",
+  "name": "Nailed It Studio",
+  "category": "beauty",
+  "tags": [
+   "Gel nails",
+   "Lashes",
+   "Bookings"
+  ],
+  "description": "Gel, acrylics and lash sets. Book on WhatsApp, walk-ins when there is space.",
+  "coverUrl": "/images/mock/beauty-1.jpg",
+  "lat": -26.246558,
+  "lng": 27.941522,
+  "township": "diepkloof",
+  "howToFind": "Diepkloof Square, first floor above the pharmacy.",
+  "nearestTaxiRank": "Diepkloof Square",
+  "hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "07:00",
+     "close": "19:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "15:00"
+    }
+   ]
+  },
+  "whatsapp": "27845254541",
+  "phone": "27845254541",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "phone",
+  "ownerName": "Palesa Mahlangu",
+  "since": 2021,
+  "offer": "Gel overlay and lash set: R 350",
+  "createdDaysAgo": 191
+ },
+ {
+  "slug": "ekhaya-lounge",
+  "name": "Ekhaya Lounge",
+  "category": "taverns",
+  "tags": [
+   "Live DJ",
+   "Rooftop",
+   "Over 18"
+  ],
+  "description": "Rooftop lounge with DJ sets every Friday and Saturday. Food until 22:00.",
+  "coverUrl": "/images/mock/taverns-1.jpg",
+  "lat": -26.246537,
+  "lng": 27.945421,
+  "township": "diepkloof",
+  "howToFind": "Zone 6, the three-storey building with the lit Ekhaya sign.",
+  "nearestTaxiRank": "Diepkloof Zone 6 stop",
+  "hours": {
+   "mon": [],
+   "tue": [],
+   "wed": [
+    {
+     "open": "14:00",
+     "close": "23:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "14:00",
+     "close": "23:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "12:00",
+     "close": "23:59"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "23:59"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ]
+  },
+  "whatsapp": "27828336019",
+  "phone": "27828336019",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "snapscan"
+  ],
+  "backupPower": true,
+  "priceLevel": 3,
+  "verificationLevel": "registered",
+  "ownerName": "Mandla Zulu",
+  "since": 2017,
+  "offer": null,
+  "createdDaysAgo": 494
+ },
+ {
+  "slug": "mthembu-plumbing",
+  "name": "Mthembu Plumbing",
+  "category": "home",
+  "tags": [
+   "Burst pipes",
+   "Geysers",
+   "Call-outs"
+  ],
+  "description": "Burst pipes, geysers and blocked drains anywhere in Soweto. Call-outs until 20:00.",
+  "coverUrl": "/images/mock/home-1.jpg",
+  "lat": -26.215163,
+  "lng": 27.896856,
+  "township": "meadowlands",
+  "howToFind": "Mobile service. Workshop at Zone 2, house 1123, blue bakkie outside.",
+  "nearestTaxiRank": "Meadowlands Zone 2 rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27833655472",
+  "phone": "27833655472",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Jabulani Mthembu",
+  "since": 2010,
+  "offer": null,
+  "createdDaysAgo": 375
+ },
+ {
+  "slug": "gogo-catering",
+  "name": "Gogo Catering",
+  "category": "catering",
+  "tags": [
+   "Weddings",
+   "Funerals",
+   "Umgidi"
+  ],
+  "description": "Home-style catering for weddings, funerals and family events. Samp, beef stew, salads and more.",
+  "coverUrl": "/images/mock/catering-3.jpg",
+  "lat": -26.21536,
+  "lng": 27.896324,
+  "township": "meadowlands",
+  "howToFind": "Order by WhatsApp. Kitchen at Zone 8, opposite the Methodist church.",
+  "nearestTaxiRank": "Meadowlands Zone 8 rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27786474072",
+  "phone": "27786474072",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Thandi Mabena",
+  "since": 2005,
+  "offer": null,
+  "createdDaysAgo": 519
+ },
+ {
+  "slug": "mea-kota-spot",
+  "name": "Mea Kota Spot",
+  "category": "food",
+  "tags": [
+   "Kota",
+   "Takeaway",
+   "Late night"
+  ],
+  "description": "Loaded kotas with polony, chips, cheese and russian. Big portions, fair prices.",
+  "coverUrl": "/images/mock/food-2.jpg",
+  "lat": -26.219037,
+  "lng": 27.893431,
+  "township": "meadowlands",
+  "howToFind": "Window counter at the corner of Mahalefele Road, next to the car wash.",
+  "nearestTaxiRank": "Meadowlands Zone 1 rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27783423015",
+  "phone": "27783423015",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Bongani Radebe",
+  "since": 2022,
+  "offer": null,
+  "createdDaysAgo": 73
+ },
+ {
+  "slug": "dobsonville-phone-doctor",
+  "name": "Dobsonville Phone Doctor",
+  "category": "tech",
+  "tags": [
+   "Screen repairs",
+   "Batteries",
+   "Same day"
+  ],
+  "description": "Cracked screens, batteries and charging ports fixed while you wait.",
+  "coverUrl": "/images/mock/tech-3.jpg",
+  "lat": -26.217088,
+  "lng": 27.857242,
+  "township": "dobsonville",
+  "howToFind": "Inside Dobsonville Mall, kiosk near the Shoprite entrance.",
+  "nearestTaxiRank": "Dobsonville Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27846726788",
+  "phone": "27846726788",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Ayanda Mkhize",
+  "since": 2018,
+  "offer": null,
+  "createdDaysAgo": 439
+ },
+ {
+  "slug": "thula-wellness",
+  "name": "Thula Wellness",
+  "category": "health",
+  "tags": [
+   "Physio",
+   "Massage",
+   "Medical aid"
+  ],
+  "description": "Physiotherapy and therapeutic massage. Medical aid accepted.",
+  "coverUrl": "/images/mock/health-3.jpg",
+  "lat": -26.218397,
+  "lng": 27.849079,
+  "township": "dobsonville",
+  "howToFind": "Dobsonville Gardens, unit 12, white building with green signage.",
+  "nearestTaxiRank": "Dobsonville Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27848505398",
+  "phone": "27848505398",
+  "website": null,
+  "paymentMethods": [
+   "card",
+   "eft"
+  ],
+  "backupPower": true,
+  "priceLevel": 3,
+  "verificationLevel": "registered",
+  "ownerName": "Dr Refilwe Molefe",
+  "since": 2015,
+  "offer": null,
+  "createdDaysAgo": 585
+ },
+ {
+  "slug": "bright-minds-tutors",
+  "name": "Bright Minds Tutors",
+  "category": "education",
+  "tags": [
+   "Maths",
+   "Science",
+   "Matric"
+  ],
+  "description": "Maths and science lessons for grades 8 to 12. Small groups, matric exam prep.",
+  "coverUrl": null,
+  "lat": -26.218243,
+  "lng": 27.859926,
+  "township": "dobsonville",
+  "howToFind": "Classes at the Dobsonville Library hall, Saturdays and weekday afternoons.",
+  "nearestTaxiRank": "Dobsonville Library stop",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27761363097",
+  "phone": "27761363097",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Karabo Tshabalala",
+  "since": 2019,
+  "offer": null,
+  "createdDaysAgo": 306
+ },
+ {
+  "slug": "pimville-pap-and-wors",
+  "name": "Pimville Pap & Wors",
+  "category": "food",
+  "tags": [
+   "Pap and wors",
+   "Lunch",
+   "Takeaway"
+  ],
+  "description": "Pap, wors and gravy for workers and taxi drivers. Lunch specials daily.",
+  "coverUrl": "/images/mock/food-1.jpg",
+  "lat": -26.265313,
+  "lng": 27.893277,
+  "township": "pimville",
+  "howToFind": "Opposite Maponya Mall on Chris Hani Road, silver food trailer.",
+  "nearestTaxiRank": "Maponya Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27737071304",
+  "phone": "27737071304",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Lucky Masilela",
+  "since": 2013,
+  "offer": null,
+  "createdDaysAgo": 576
+ },
+ {
+  "slug": "sharp-deliveries",
+  "name": "Sharp Deliveries",
+  "category": "transport",
+  "tags": [
+   "Parcels",
+   "Groceries",
+   "Same day"
+  ],
+  "description": "Scooter deliveries anywhere in Soweto. Groceries, parcels and documents.",
+  "coverUrl": "/images/mock/transport-3.jpg",
+  "lat": -26.26523,
+  "lng": 27.896602,
+  "township": "pimville",
+  "howToFind": "Mobile service, WhatsApp for a quote.",
+  "nearestTaxiRank": null,
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27831765298",
+  "phone": "27831765298",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft",
+   "snapscan"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Thabo Maseko",
+  "since": 2021,
+  "offer": null,
+  "createdDaysAgo": 20
+ },
+ {
+  "slug": "maponya-fashion-house",
+  "name": "Maponya Fashion House",
+  "category": "fashion",
+  "tags": [
+   "Local designers",
+   "Streetwear",
+   "Accessories"
+  ],
+  "description": "Streetwear and accessories from Soweto designers, all under one roof.",
+  "coverUrl": "/images/mock/fashion-2.jpg",
+  "lat": -26.273867,
+  "lng": 27.902685,
+  "township": "pimville",
+  "howToFind": "Maponya Mall, lower level, next to the food court.",
+  "nearestTaxiRank": "Maponya Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27716537572",
+  "phone": "27716537572",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 3,
+  "verificationLevel": "registered",
+  "ownerName": "Lindiwe Sibiya",
+  "since": 2016,
+  "offer": null,
+  "createdDaysAgo": 445
+ },
+ {
+  "slug": "kliptown-kitchen",
+  "name": "Kliptown Kitchen",
+  "category": "food",
+  "tags": [
+   "Home cooking",
+   "Vegetarian options",
+   "Tourist friendly"
+  ],
+  "description": "Home-cooked meals near Walter Sisulu Square. Tripe on Thursdays.",
+  "coverUrl": "/images/mock/food-3.jpg",
+  "lat": -26.278829,
+  "lng": 27.885508,
+  "township": "kliptown",
+  "howToFind": "Across from Walter Sisulu Square, the pink house with the chalkboard menu.",
+  "nearestTaxiRank": "Kliptown Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27767185778",
+  "phone": "27767185778",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "snapscan"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "vouched",
+  "ownerName": "Mpho Ramaphosa",
+  "since": 2018,
+  "offer": null,
+  "createdDaysAgo": 420
+ },
+ {
+  "slug": "freedom-charter-tours",
+  "name": "Freedom Charter Tours",
+  "category": "tours",
+  "tags": [
+   "Bicycle tours",
+   "History",
+   "Kliptown"
+  ],
+  "description": "Bicycle tours of Kliptown and the Freedom Charter story, led by people who grew up here.",
+  "coverUrl": "/images/mock/tours-1.jpg",
+  "lat": -26.279689,
+  "lng": 27.881639,
+  "township": "kliptown",
+  "howToFind": "Bikes leave from the Walter Sisulu Square information kiosk.",
+  "nearestTaxiRank": "Kliptown Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27825139456",
+  "phone": "27825139456",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Vusi Ngcobo",
+  "since": 2012,
+  "offer": null,
+  "createdDaysAgo": 246
+ },
+ {
+  "slug": "jabavu-car-wash",
+  "name": "Jabavu Car Wash",
+  "category": "carwash",
+  "tags": [
+   "Wash and vac",
+   "Taxi washes",
+   "Quick"
+  ],
+  "description": "Wash and vac from R 60. Taxis washed early morning before the first loads.",
+  "coverUrl": "/images/mock/carwash-1.jpg",
+  "lat": -26.244155,
+  "lng": 27.882457,
+  "township": "jabavu",
+  "howToFind": "Open ground next to Jabavu Stadium, look for the yellow gazebo.",
+  "nearestTaxiRank": "Jabavu taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27720396833",
+  "phone": "27720396833",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Sipho Nhlapo",
+  "since": 2020,
+  "offer": null,
+  "createdDaysAgo": 659
+ },
+ {
+  "slug": "jabavu-fresh-produce",
+  "name": "Jabavu Fresh Produce",
+  "category": "spaza",
+  "tags": [
+   "Vegetables",
+   "Fruit",
+   "Bulk buys"
+  ],
+  "description": "Fresh vegetables and fruit, straight from the market every morning.",
+  "coverUrl": "/images/mock/spaza-2.jpg",
+  "lat": -26.249724,
+  "lng": 27.87527,
+  "township": "jabavu",
+  "howToFind": "Stall 7 at the Jabavu market, under the green shade cloth.",
+  "nearestTaxiRank": "Jabavu taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27834492103",
+  "phone": "27834492103",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Grace Mabuza",
+  "since": 2023,
+  "offer": null,
+  "createdDaysAgo": 12
+ },
+ {
+  "slug": "dube-braids-palace",
+  "name": "Dube Braids Palace",
+  "category": "hair",
+  "tags": [
+   "Knotless braids",
+   "Cornrows",
+   "Bookings"
+  ],
+  "description": "Knotless braids, cornrows and wig installs. Bring your own hair or buy here.",
+  "coverUrl": "/images/mock/hair-1.jpg",
+  "lat": -26.234597,
+  "lng": 27.887413,
+  "township": "dube",
+  "howToFind": "Dube Hostel road, house 45, the salon is in the garage at the back.",
+  "nearestTaxiRank": "Dube Station",
+  "hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "07:00",
+     "close": "19:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "15:00"
+    }
+   ]
+  },
+  "whatsapp": "27736411068",
+  "phone": "27736411068",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "snapscan"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Nthabiseng Moloi",
+  "since": 2017,
+  "offer": null,
+  "createdDaysAgo": 524
+ },
+ {
+  "slug": "dube-boxing-club",
+  "name": "Dube Boxing Club",
+  "category": "health",
+  "tags": [
+   "Boxing",
+   "Youth",
+   "Fitness"
+  ],
+  "description": "Boxing and fitness sessions for all ages. Youth classes after school.",
+  "coverUrl": "/images/mock/health-2.jpg",
+  "lat": -26.239788,
+  "lng": 27.885379,
+  "township": "dube",
+  "howToFind": "Behind Dube Community Centre, the green steel doors.",
+  "nearestTaxiRank": "Dube Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27834471007",
+  "phone": "27834471007",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "vouched",
+  "ownerName": "Themba Shabalala",
+  "since": 2009,
+  "offer": null,
+  "createdDaysAgo": 483
+ },
+ {
+  "slug": "dube-village-lounge",
+  "name": "Dube Village Lounge",
+  "category": "taverns",
+  "tags": [
+   "Jazz Sundays",
+   "Braai area",
+   "Over 18"
+  ],
+  "description": "Jazz on Sunday afternoons and a braai area out back. Relaxed, grown-up crowd.",
+  "coverUrl": "/images/mock/taverns-2.jpg",
+  "lat": -26.236004,
+  "lng": 27.892753,
+  "township": "dube",
+  "howToFind": "Corner of Mkhize Street, the cream building with the wooden gate.",
+  "nearestTaxiRank": "Dube Station",
+  "hours": {
+   "mon": [],
+   "tue": [],
+   "wed": [
+    {
+     "open": "14:00",
+     "close": "23:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "14:00",
+     "close": "23:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "12:00",
+     "close": "23:59"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "23:59"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ]
+  },
+  "whatsapp": "27736124420",
+  "phone": "27736124420",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "phone",
+  "ownerName": "Kabelo Motaung",
+  "since": 2015,
+  "offer": null,
+  "createdDaysAgo": 388
+ },
+ {
+  "slug": "mofolo-park-coffee",
+  "name": "Mofolo Park Coffee",
+  "category": "food",
+  "tags": [
+   "Coffee",
+   "Breakfast",
+   "Wi-Fi"
+  ],
+  "description": "Coffee, vetkoek breakfasts and free Wi-Fi next to Mofolo Park.",
+  "coverUrl": "/images/mock/food-2.jpg",
+  "lat": -26.231276,
+  "lng": 27.879707,
+  "township": "mofolo",
+  "howToFind": "Container café at the Mofolo Park main gate.",
+  "nearestTaxiRank": "Mofolo Park stop",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27782200439",
+  "phone": "27782200439",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "snapscan"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "phone",
+  "ownerName": "Zinhle Cele",
+  "since": 2022,
+  "offer": "Coffee and vetkoek: R 45 before 9am",
+  "createdDaysAgo": 25
+ },
+ {
+  "slug": "mofolo-electrical",
+  "name": "Mofolo Electrical",
+  "category": "home",
+  "tags": [
+   "COC certificates",
+   "Prepaid meters",
+   "Wiring"
+  ],
+  "description": "Registered electrician for COCs, wiring and prepaid meter faults.",
+  "coverUrl": "/images/mock/home-3.jpg",
+  "lat": -26.231393,
+  "lng": 27.870426,
+  "township": "mofolo",
+  "howToFind": "Mobile service. Office at Mofolo North, stand 2210.",
+  "nearestTaxiRank": "Mofolo taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27796554699",
+  "phone": "27796554699",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Paul Mahlaba",
+  "since": 2011,
+  "offer": null,
+  "createdDaysAgo": 149
+ },
+ {
+  "slug": "moroka-dam-braai-spot",
+  "name": "Moroka Dam Braai Spot",
+  "category": "food",
+  "tags": [
+   "Shisanyama",
+   "Weekends",
+   "Family"
+  ],
+  "description": "Weekend shisanyama by the Moroka Dam. Buy your meat, we braai it for you.",
+  "coverUrl": "/images/mock/food-1.jpg",
+  "lat": -26.254441,
+  "lng": 27.864534,
+  "township": "moroka",
+  "howToFind": "Along the dam, Thokoza Park side, the big tent with the smoke.",
+  "nearestTaxiRank": "Thokoza Park stop",
+  "hours": {
+   "mon": [],
+   "tue": [],
+   "wed": [],
+   "thu": [],
+   "fri": [
+    {
+     "open": "16:00",
+     "close": "22:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "20:00"
+    }
+   ]
+  },
+  "whatsapp": "27739626454",
+  "phone": "27739626454",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "snapscan"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Siyabonga Mnisi",
+  "since": 2016,
+  "offer": null,
+  "createdDaysAgo": 565
+ },
+ {
+  "slug": "moroka-print-and-copy",
+  "name": "Moroka Print & Copy",
+  "category": "tech",
+  "tags": [
+   "Printing",
+   "CV typing",
+   "Photocopies"
+  ],
+  "description": "Printing, photocopies, CV typing and online applications.",
+  "coverUrl": "/images/mock/tech-3.jpg",
+  "lat": -26.258778,
+  "lng": 27.870568,
+  "township": "moroka",
+  "howToFind": "Moroka shopping strip, between the barber and the butchery.",
+  "nearestTaxiRank": "Moroka taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27764495762",
+  "phone": "27764495762",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": true,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Naledi Phiri",
+  "since": 2014,
+  "offer": null,
+  "createdDaysAgo": 619
+ },
+ {
+  "slug": "naledi-beauty-bar",
+  "name": "Naledi Beauty Bar",
+  "category": "beauty",
+  "tags": [
+   "Makeup",
+   "Brows",
+   "Matric dance"
+  ],
+  "description": "Makeup, brows and matric dance glam at kasi prices.",
+  "coverUrl": "/images/mock/beauty-3.jpg",
+  "lat": -26.245904,
+  "lng": 27.817499,
+  "township": "naledi",
+  "howToFind": "Naledi Extension 1, house with the pink wall, ring the bell.",
+  "nearestTaxiRank": "Naledi Station",
+  "hours": {
+   "mon": [],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "07:00",
+     "close": "19:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "15:00"
+    }
+   ]
+  },
+  "whatsapp": "27726445501",
+  "phone": "27726445501",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Boitumelo Kekana",
+  "since": 2020,
+  "offer": null,
+  "createdDaysAgo": 545
+ },
+ {
+  "slug": "naledi-spaza-hub",
+  "name": "Naledi Spaza Hub",
+  "category": "spaza",
+  "tags": [
+   "Groceries",
+   "Airtime",
+   "Paraffin"
+  ],
+  "description": "Groceries, airtime and paraffin. Open early, closes late.",
+  "coverUrl": "/images/mock/spaza-3.jpg",
+  "lat": -26.250701,
+  "lng": 27.826642,
+  "township": "naledi",
+  "howToFind": "Main road to Naledi Station, orange shopfront.",
+  "nearestTaxiRank": "Naledi Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27791698005",
+  "phone": "27791698005",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Ahmed Khumalo",
+  "since": 2019,
+  "offer": null,
+  "createdDaysAgo": 569
+ },
+ {
+  "slug": "naledi-music-academy",
+  "name": "Naledi Music Academy",
+  "category": "education",
+  "tags": [
+   "Piano",
+   "Choir",
+   "Kids"
+  ],
+  "description": "Piano, guitar and choir lessons for children and adults.",
+  "coverUrl": null,
+  "lat": -26.243111,
+  "lng": 27.819925,
+  "township": "naledi",
+  "howToFind": "Naledi Methodist church hall, Tuesday to Saturday.",
+  "nearestTaxiRank": "Naledi Station",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27791420076",
+  "phone": "27791420076",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Sello Mofokeng",
+  "since": 2018,
+  "offer": null,
+  "createdDaysAgo": 642
+ },
+ {
+  "slug": "zola-tyres-and-exhaust",
+  "name": "Zola Tyres & Exhaust",
+  "category": "carwash",
+  "tags": [
+   "Tyres",
+   "Exhausts",
+   "Wheel alignment"
+  ],
+  "description": "New and second-hand tyres, exhausts and wheel alignment.",
+  "coverUrl": "/images/mock/carwash-1.jpg",
+  "lat": -26.23763,
+  "lng": 27.840966,
+  "township": "zola",
+  "howToFind": "Zola North, on the corner opposite the clinic, tyres stacked outside.",
+  "nearestTaxiRank": "Zola taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27723396311",
+  "phone": "27723396311",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "phone",
+  "ownerName": "Dumisani Mthethwa",
+  "since": 2013,
+  "offer": null,
+  "createdDaysAgo": 301
+ },
+ {
+  "slug": "zola-budget-shoes",
+  "name": "Zola Budget Shoes",
+  "category": "fashion",
+  "tags": [
+   "School shoes",
+   "Sneaker repair",
+   "Budget"
+  ],
+  "description": "School shoes and sneaker repairs. Soles, stitching and cleaning.",
+  "coverUrl": "/images/mock/fashion-2.jpg",
+  "lat": -26.240744,
+  "lng": 27.84305,
+  "township": "zola",
+  "howToFind": "Zola shopping strip, small shop next to the tavern.",
+  "nearestTaxiRank": "Zola taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27838820794",
+  "phone": "27838820794",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Rethabile Nhlanhla",
+  "since": 2021,
+  "offer": null,
+  "createdDaysAgo": 395
+ },
+ {
+  "slug": "chiawelo-chesa-nyama",
+  "name": "Chiawelo Chesa Nyama",
+  "category": "food",
+  "tags": [
+   "Shisanyama",
+   "Sit-down",
+   "Groups"
+  ],
+  "description": "Big-group shisanyama with sit-down tables and a kids play area.",
+  "coverUrl": "/images/mock/food-1.jpg",
+  "lat": -26.277148,
+  "lng": 27.864443,
+  "township": "chiawelo",
+  "howToFind": "Chiawelo Extension 2, next to the community hall, huge parking lot.",
+  "nearestTaxiRank": "Chiawelo taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27764203534",
+  "phone": "27764203534",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "snapscan"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Tshepo Makhubela",
+  "since": 2010,
+  "offer": null,
+  "createdDaysAgo": 152
+ },
+ {
+  "slug": "chiawelo-laundromat",
+  "name": "Chiawelo Laundromat",
+  "category": "home",
+  "tags": [
+   "Laundry",
+   "Ironing",
+   "Duvets"
+  ],
+  "description": "Wash, dry and fold. Duvets and school uniforms done same day.",
+  "coverUrl": "/images/mock/home-3.jpg",
+  "lat": -26.2781,
+  "lng": 27.866021,
+  "township": "chiawelo",
+  "howToFind": "Chiawelo shopping centre, shop 3.",
+  "nearestTaxiRank": "Chiawelo taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27731228363",
+  "phone": "27731228363",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Nomvula Ntuli",
+  "since": 2022,
+  "offer": null,
+  "createdDaysAgo": 367
+ },
+ {
+  "slug": "kasi-rides-shuttle",
+  "name": "Kasi Rides Shuttle",
+  "category": "transport",
+  "tags": [
+   "Airport",
+   "School runs",
+   "Events"
+  ],
+  "description": "Shuttles to OR Tambo, school runs and event transport across Joburg.",
+  "coverUrl": "/images/mock/transport-1.jpg",
+  "lat": -26.275782,
+  "lng": 27.862692,
+  "township": "chiawelo",
+  "howToFind": "Book on WhatsApp. Pick-ups from your door.",
+  "nearestTaxiRank": null,
+  "hours": {
+   "mon": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "06:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27835741454",
+  "phone": "27835741454",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "vouched",
+  "ownerName": "Sizwe Mabaso",
+  "since": 2017,
+  "offer": null,
+  "createdDaysAgo": 115
+ },
+ {
+  "slug": "protea-glen-dental-care",
+  "name": "Protea Glen Dental Care",
+  "category": "health",
+  "tags": [
+   "Check-ups",
+   "Medical aid",
+   "Emergencies"
+  ],
+  "description": "Family dentistry, check-ups and emergencies. Medical aid and cash patients.",
+  "coverUrl": "/images/mock/health-3.jpg",
+  "lat": -26.281918,
+  "lng": 27.807494,
+  "township": "protea-glen",
+  "howToFind": "Protea Glen Mall, upper level near the Clicks.",
+  "nearestTaxiRank": "Protea Glen Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27719850590",
+  "phone": "27719850590",
+  "website": null,
+  "paymentMethods": [
+   "card",
+   "eft"
+  ],
+  "backupPower": true,
+  "priceLevel": 3,
+  "verificationLevel": "registered",
+  "ownerName": "Dr Mbali Zwane",
+  "since": 2016,
+  "offer": null,
+  "createdDaysAgo": 319
+ },
+ {
+  "slug": "glen-grill-house",
+  "name": "Glen Grill House",
+  "category": "food",
+  "tags": [
+   "Burgers",
+   "Ribs",
+   "Family"
+  ],
+  "description": "Burgers, ribs and milkshakes. New in Protea Glen and already busy on weekends.",
+  "coverUrl": "/images/mock/food-3.jpg",
+  "lat": -26.278078,
+  "lng": 27.810384,
+  "township": "protea-glen",
+  "howToFind": "Protea Glen Extension 11, the black building on the main road.",
+  "nearestTaxiRank": "Protea Glen Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ]
+  },
+  "whatsapp": "27783411219",
+  "phone": "27783411219",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card"
+  ],
+  "backupPower": true,
+  "priceLevel": 3,
+  "verificationLevel": "phone",
+  "ownerName": "Andile Mazibuko",
+  "since": 2023,
+  "offer": "Opening special: 2 burgers for R 120",
+  "createdDaysAgo": 9
+ },
+ {
+  "slug": "glen-kids-academy",
+  "name": "Glen Kids Academy",
+  "category": "education",
+  "tags": [
+   "Creche",
+   "Grade R",
+   "Aftercare"
+  ],
+  "description": "Creche, Grade R and aftercare. Registered with the department.",
+  "coverUrl": null,
+  "lat": -26.276598,
+  "lng": 27.81391,
+  "township": "protea-glen",
+  "howToFind": "Protea Glen Extension 4, the yellow school with the playground.",
+  "nearestTaxiRank": "Protea Glen Mall rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27838069429",
+  "phone": "27838069429",
+  "website": null,
+  "paymentMethods": [
+   "eft",
+   "cash"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Precious Motsepe",
+  "since": 2012,
+  "offer": null,
+  "createdDaysAgo": 132
+ },
+ {
+  "slug": "emdeni-dj-hire",
+  "name": "Emdeni DJ Hire",
+  "category": "creative",
+  "tags": [
+   "DJ",
+   "Sound hire",
+   "Parties"
+  ],
+  "description": "DJ and sound hire for parties, weddings and street bashes.",
+  "coverUrl": "/images/mock/creative-3.jpg",
+  "lat": -26.227232,
+  "lng": 27.832592,
+  "township": "emdeni",
+  "howToFind": "Mobile service. WhatsApp for bookings.",
+  "nearestTaxiRank": null,
+  "hours": {
+   "mon": [],
+   "tue": [],
+   "wed": [],
+   "thu": [],
+   "fri": [
+    {
+     "open": "16:00",
+     "close": "22:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "20:00"
+    }
+   ]
+  },
+  "whatsapp": "27835522995",
+  "phone": "27835522995",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 2,
+  "verificationLevel": "phone",
+  "ownerName": "Lwazi Mdlalose",
+  "since": 2019,
+  "offer": null,
+  "createdDaysAgo": 645
+ },
+ {
+  "slug": "emdeni-hardware",
+  "name": "Emdeni Hardware",
+  "category": "home",
+  "tags": [
+   "Building materials",
+   "Cement",
+   "Delivery"
+  ],
+  "description": "Cement, bricks, paint and plumbing supplies. Delivery in Soweto.",
+  "coverUrl": "/images/mock/home-2.jpg",
+  "lat": -26.227058,
+  "lng": 27.83286,
+  "township": "emdeni",
+  "howToFind": "Emdeni South, next to the petrol station on Koma Road.",
+  "nearestTaxiRank": "Emdeni taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "08:00",
+     "close": "18:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "09:00",
+     "close": "14:00"
+    }
+   ]
+  },
+  "whatsapp": "27781697211",
+  "phone": "27781697211",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "eft"
+  ],
+  "backupPower": true,
+  "priceLevel": 2,
+  "verificationLevel": "registered",
+  "ownerName": "Solly Nkuna",
+  "since": 2007,
+  "offer": null,
+  "createdDaysAgo": 646
+ },
+ {
+  "slug": "emdeni-shuffle-dance-school",
+  "name": "Emdeni Shuffle Dance School",
+  "category": "creative",
+  "tags": [
+   "Dance",
+   "Pantsula",
+   "Youth"
+  ],
+  "description": "Pantsula and amapiano dance classes for youth. First class free.",
+  "coverUrl": "/images/mock/creative-2.jpg",
+  "lat": -26.229562,
+  "lng": 27.828179,
+  "township": "emdeni",
+  "howToFind": "Emdeni Community Hall, Saturday mornings.",
+  "nearestTaxiRank": "Emdeni taxi rank",
+  "hours": {
+   "mon": [],
+   "tue": [],
+   "wed": [],
+   "thu": [],
+   "fri": [
+    {
+     "open": "16:00",
+     "close": "22:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "sun": [
+    {
+     "open": "10:00",
+     "close": "20:00"
+    }
+   ]
+  },
+  "whatsapp": "27730101138",
+  "phone": "27730101138",
+  "website": null,
+  "paymentMethods": [
+   "cash"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Onthatile Seleke",
+  "since": 2024,
+  "offer": "First class free",
+  "createdDaysAgo": 5
+ },
+ {
+  "slug": "zola-mama-thembi-catering",
+  "name": "Zola Mama Thembi Catering",
+  "category": "catering",
+  "tags": [
+   "Funerals",
+   "Parties",
+   "Traditional food"
+  ],
+  "description": "Traditional food for funerals, parties and church events. Big pots, fair prices.",
+  "coverUrl": "/images/mock/catering-2.jpg",
+  "lat": -26.237573,
+  "lng": 27.843549,
+  "township": "zola",
+  "howToFind": "Zola South, house 3342. Orders by WhatsApp only.",
+  "nearestTaxiRank": "Zola taxi rank",
+  "hours": {
+   "mon": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "tue": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "wed": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "thu": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "fri": [
+    {
+     "open": "08:00",
+     "close": "17:00"
+    }
+   ],
+   "sat": [
+    {
+     "open": "09:00",
+     "close": "13:00"
+    }
+   ],
+   "sun": []
+  },
+  "whatsapp": "27838587635",
+  "phone": "27838587635",
+  "website": null,
+  "paymentMethods": [
+   "cash",
+   "eft"
+  ],
+  "backupPower": false,
+  "priceLevel": 1,
+  "verificationLevel": "phone",
+  "ownerName": "Thembi Hadebe",
+  "since": 2011,
+  "offer": null,
+  "createdDaysAgo": 634
+ }
+]

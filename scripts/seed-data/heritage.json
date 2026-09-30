@@ -1,0 +1,8 @@
+[
+ { "slug": "hector-pieterson-memorial", "name": "Hector Pieterson Memorial and Museum", "township": "orlando-west", "lat": -26.2383, "lng": 27.906, "description": "Honours the students of the 16 June 1976 uprising. The museum tells the story of the day through photographs, film and first-hand accounts." },
+ { "slug": "mandela-house", "name": "Mandela House, Vilakazi Street", "township": "orlando-west", "lat": -26.2386, "lng": 27.9087, "description": "The house Nelson Mandela lived in from 1946, on the only street in the world that was home to two Nobel Peace Prize winners." },
+ { "slug": "orlando-towers", "name": "Orlando Towers", "township": "orlando-east", "lat": -26.2535, "lng": 27.9265, "description": "The painted cooling towers of the old Orlando power station, now a landmark for bungee jumping, murals and views over Soweto." },
+ { "slug": "walter-sisulu-square", "name": "Walter Sisulu Square of Dedication", "township": "kliptown", "lat": -26.2775, "lng": 27.89, "description": "Where the Freedom Charter was adopted in 1955. The square hosts a monument, a museum and markets." },
+ { "slug": "regina-mundi-church", "name": "Regina Mundi Church", "township": "moroka", "lat": -26.2468, "lng": 27.9046, "description": "Soweto's largest Catholic church and a refuge for students in 1976. Bullet marks from that time are still visible inside." },
+ { "slug": "kliptown-open-air-museum", "name": "Kliptown Open Air Museum", "township": "kliptown", "lat": -26.2779, "lng": 27.8878, "description": "An outdoor walk through the history of the Freedom Charter and the Congress of the People." }
+]

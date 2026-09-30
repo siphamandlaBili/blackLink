@@ -1,0 +1,13 @@
+node_modules/
+
+# Secrets: real keys live only here, never in git. Copy .env.example to start.
+.env
+.env.*
+!.env.example
+
+# Local output
+.email-previews/
+scripts/.export-tmp/
+coverage/
+*.log
+.DS_Store
